@@ -22,10 +22,12 @@ Maven: Install Maven
 
 Getting Started
 1. Clone the Repository
-bash
-Copy
+
 git clone https://github.com/aladin1998/spring-boot-AI.git
+
+`
 cd deepseek
+`
 
 2. Set Up Docker-Compose
 
