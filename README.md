@@ -40,7 +40,7 @@ To start the App, run:
 
 This will build the Docker images and start the containers.
 
-4. Access the Application
+3. Access the Application
 
 Once the containers are running, the Spring Boot application will be accessible at:
 `
