@@ -14,13 +14,14 @@ This setup allows you to run the application entirely offline, making it ideal f
 ## Prerequisites
 Before you begin, ensure you have the following installed:
 
-Docker: Install Docker
+- Docker
 
-Java Development Kit (JDK) 21 or higher: Install JDK
+- JDK 21 or higher
 
-Maven: Install Maven
+- Maven
 
-Getting Started
+## Getting Started
+
 1. Clone the Repository
 
 git clone https://github.com/aladin1998/spring-boot-AI.git
