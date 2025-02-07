@@ -1,4 +1,4 @@
-# Spring Boot Application with DeepSeek and Ollama (Offline Mode using Docker-Compose)
+# Spring Boot Application with DeepSeek and Ollama
 
 This repository contains a Spring Boot application that integrates DeepSeek and Ollama for offline machine learning and natural language processing tasks. The application is designed to run locally using Docker-Compose, ensuring a seamless and isolated development environment.
 
